@@ -9,7 +9,7 @@ export function getData() {
                     upKey: 'W',
                     downKey: 'S'
                 },
-                language: 'fr-FR',
+                language: 'en-US',
                 Music: true,
                 WASD: true,
                 "Fast text\nflow": false
