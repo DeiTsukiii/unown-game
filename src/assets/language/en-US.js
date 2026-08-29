@@ -4,7 +4,9 @@ export const en_US = {
 
     steps: {
         interactions: [
-            ["The clock seems to be broken."],
+            [
+                "The clock seems to be broken."
+            ],
             [
                 "The poster appears to be a note left by someone...",
                 "It reads: \"Welcome, Tamer! Here's some information to get you started. To move around, use the ZQSD or WASD keys, depending on your settings. To interact with people or objects, move closer and press the space bar. If you encounter a wild Pokémon, move closer and use a Pokéball to try to capture it. For battles, approach a Pokémon or Trainer and choose your attacks or Pokéball. The Pokémon Centers allow you to heal your Pokémon. You'll also find items along the way, some of which will heal you or help you progress. Good luck, Trainer, and don't forget: the adventure is just beginning!\"."

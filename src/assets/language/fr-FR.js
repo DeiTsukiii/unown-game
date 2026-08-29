@@ -4,7 +4,9 @@ export const fr_FR = {
 
     steps: {
         interactions: [
-            ["L'horloge semble être cassée."],
+            [
+                "L'horloge semble être cassée."
+            ],
             [
                 "L'affiche semble être une note laissée par quelqu'un...",
                 "Elle indique : \"Bienvenue, Dresseur ! Voici quelques informations pour commencer ton aventure. Pour te déplacer, utilise les touches ZQSD ou WASD selon tes parametres. Pour interagir avec les gens ou les objets, approche-toi et appuie sur la barre espace. Si tu rencontres un Pokémon sauvage, approche-toi et utilise une Pokéball pour tenter de le capturer. Pour les combats, approche-toi d’un Pokémon ou d’un Dresseur et choisis tes attaques ou ta Pokéball. Les Centres Pokémon te permettront de soigner tes Pokémon. Tu trouveras aussi des objets au cours de ton aventure, certains pour te soigner ou t'aider à progresser. Bonne chance, Dresseur, et n'oublie pas : l'aventure ne fait que commencer !\".",
